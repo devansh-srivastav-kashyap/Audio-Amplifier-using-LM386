@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-03-26T18:47:20Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "untitled"
+        },
+        "Owner": "Devansh Srivastava <devanshsrivastavkashyap@gmail.com>",
+        "Size": {
+            "X": 39.35,
+            "Y": 45.39
+        }
+    }
+}
